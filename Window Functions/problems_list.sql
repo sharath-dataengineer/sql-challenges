@@ -1,4 +1,4 @@
-#problem 1:
+#problem 1: 01-Detect Customer Churn by Inactivity
 
 #problem 2:  
 
