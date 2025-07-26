@@ -2,8 +2,8 @@
 
 -- This file contains a list of SQL problems focused on data deduplication techniques
 
--- Problem 01: Detect Customer Churn by Inactivity
--- Problem 02: Sessionize Events with Dynamic Gaps
+-- Problem 01: Get the Latest Status Update per Ticket
+-- Problem 02: 
 -- Problem 03: 
 -- Problem 04: 
 -- Problem 05: 

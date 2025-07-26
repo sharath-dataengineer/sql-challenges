@@ -8,7 +8,7 @@ These are not basic SELECTs — they cover deep concepts like window functions, 
 
 - Window Functions
 - Funnel Analysis
-- Deduplication (latest record per key)
+- Deduplication
 - Data Modeling
 - Time-based Aggregations
 - Ranking, Percentiles
