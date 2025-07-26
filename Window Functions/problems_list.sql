@@ -1,6 +1,6 @@
-#problem 1: 01-Detect Customer Churn by Inactivity
+#problem 1: Detect Customer Churn by Inactivity
 
-#problem 2:  
+#problem 2: Sessionize Events with Dynamic Gaps
 
 #problem 3:
 
