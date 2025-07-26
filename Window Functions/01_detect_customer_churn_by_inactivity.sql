@@ -1,3 +1,11 @@
+--Problem 1: Detect Customer Churn by Inactivity  
+
+--Description:
+
+--You are tasked with identifying customers who have been inactive for more than 30 days. 
+--An inactive customer is defined as one who has not made any purchases in the last 30 days.
+
+
 --Input data:
 
 WITH user_activity AS (
